@@ -31,6 +31,8 @@ public class SelectionSort {
         }
         return order;
     }
+
+
     public boolean less(int a, int b) {
         return a > b;
     }
